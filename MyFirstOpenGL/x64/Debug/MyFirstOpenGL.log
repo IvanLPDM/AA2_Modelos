@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\MyFirstOpenGL\Source.cpp(30,90): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\MyFirstOpenGL\Source.cpp(30,71): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\MyFirstOpenGL\Source.cpp(357,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  MyFirstOpenGL.vcxproj -> C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\x64\Debug\MyFirstOpenGL.exe

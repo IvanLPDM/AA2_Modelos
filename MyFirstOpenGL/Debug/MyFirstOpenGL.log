@@ -1,0 +1,7 @@
+﻿  Model.cpp
+C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\MyFirstOpenGL\Model.h(5,10): fatal  error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Source.cpp
+C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\MyFirstOpenGL\Source.cpp(1,10): fatal  error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Stb.cpp
+C:\Users\Ivan Leris\Desktop\3r\Informatica gráfica\AA_2\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\Proyecto_Inicio_Sesion_08\MyFirstOpenGL\MyFirstOpenGL\Stb.cpp(2,10): fatal  error C1083: No se puede abrir el archivo incluir: 'stb_image.h': No such file or directory
+  Generando código...
